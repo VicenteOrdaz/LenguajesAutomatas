@@ -1,2 +1,1 @@
 # LenguajesAutomatas
-Compilador
